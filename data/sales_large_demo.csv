@@ -1,0 +1,241 @@
+OrderID,OrderDate,CustomerID,CustomerName,Product,Category,Region,Quantity,UnitPrice
+1001,2026-03-23,C004,Pham Thi D,Laptop,Electronics,HCM,1,16108603
+1002,2026-01-18,C004,Pham Thi D,Camera,Electronics,Da Nang,1,18657347
+1003,2026-01-04,C003,Le Van C,Monitor,Electronics,Ha Noi,1,6614227
+1004,2026-03-13,C007,Tran Van G,Camera,Electronics,Hue,4,7973379
+1005,2026-03-17,C009,Do Van I,Laptop,Electronics,Ha Noi,2,23712835
+1006,2026-02-13,C009,Do Van I,Keyboard,Accessories,Ha Noi,4,1100581
+1007,2026-01-14,C003,Le Van C,Tablet,Electronics,Da Nang,3,10772674
+1008,2026-03-19,C009,Do Van I,Laptop,Electronics,Hue,1,20996414
+1009,2026-04-29,C013,Nguyen Van N,Mouse,Accessories,Can Tho,3,184854
+1010,2026-03-21,C012,Le Thi M,Desk Lamp,Office,Ha Noi,1,594398
+1011,2026-01-06,C008,Hoang Thi H,Headphone,Accessories,Da Nang,1,848197
+1012,2026-02-18,C009,Do Van I,USB,Accessories,HCM,4,165277
+1013,2026-02-15,C007,Tran Van G,Headphone,Accessories,Da Nang,2,1657440
+1014,2026-03-10,C008,Hoang Thi H,Keyboard,Accessories,Hue,2,667887
+1015,2026-04-29,C018,Nguyen Thi S,Monitor,Electronics,HCM,2,2844241
+1016,2026-04-16,C002,Tran Thi B,Printer,Office,Hue,1,2742986
+1017,2026-01-28,C019,Le Van T,Printer,Office,Ha Noi,2,4369109
+1018,2026-02-20,C015,Vo Van P,Keyboard,Accessories,HCM,3,446413
+1019,2026-04-06,C018,Nguyen Thi S,Camera,Electronics,HCM,4,16807812
+1020,2026-04-25,C019,Le Van T,Tablet,Electronics,HCM,1,8179591
+1021,2026-03-07,C016,Dang Thi Q,Mouse,Accessories,Da Nang,1,333732
+1022,2026-01-20,C006,Nguyen Thi F,Tablet,Electronics,Can Tho,2,5565818
+1023,2026-02-18,C020,Tran Van U,USB,Accessories,Can Tho,1,141906
+1024,2026-03-29,C004,Pham Thi D,Camera,Electronics,HCM,1,15914394
+1025,2026-02-07,C014,Tran Thi O,Keyboard,Accessories,Hue,3,273402
+1026,2026-04-23,C009,Do Van I,Camera,Electronics,Ha Noi,1,21534970
+1027,2026-04-22,C010,Bui Thi K,Camera,Electronics,Can Tho,1,7387174
+1028,2026-02-17,C006,Nguyen Thi F,Camera,Electronics,Can Tho,3,4059594
+1029,2026-02-11,C016,Dang Thi Q,Laptop,Electronics,Da Nang,2,16889806
+1030,2026-01-31,C002,Tran Thi B,Monitor,Electronics,Can Tho,1,6221793
+1031,2026-01-11,C016,Dang Thi Q,Mouse,Accessories,Can Tho,1,308758
+1032,2026-01-17,C016,Dang Thi Q,Camera,Electronics,Ha Noi,3,8496912
+1033,2026-04-22,C020,Tran Van U,Tablet,Electronics,Ha Noi,2,13797886
+1034,2026-04-02,C010,Bui Thi K,Tablet,Electronics,HCM,3,11850099
+1035,2026-02-27,C004,Pham Thi D,Monitor,Electronics,Ha Noi,2,3037088
+1036,2026-01-03,C019,Le Van T,Camera,Electronics,Ha Noi,1,13922386
+1037,2026-01-01,C003,Le Van C,Laptop,Electronics,Ha Noi,1,12530789
+1038,2026-04-21,C011,Pham Van L,Mouse,Accessories,Can Tho,3,238782
+1039,2026-03-27,C016,Dang Thi Q,Monitor,Electronics,Can Tho,3,2804956
+1040,2026-04-30,C019,Le Van T,Desk Lamp,Office,Hue,2,352400
+1041,2026-04-14,C014,Tran Thi O,Monitor,Electronics,Da Nang,3,2656557
+1042,2026-02-25,C012,Le Thi M,Tablet,Electronics,Hue,3,12335373
+1043,2026-01-07,C004,Pham Thi D,Laptop,Electronics,Hue,2,24217396
+1044,2026-04-13,C004,Pham Thi D,Monitor,Electronics,Ha Noi,3,4095587
+1045,2026-02-27,C005,Vo Van E,Tablet,Electronics,Ha Noi,2,9173212
+1046,2026-02-01,C003,Le Van C,USB,Accessories,Can Tho,1,101666
+1047,2026-03-25,C018,Nguyen Thi S,Laptop,Electronics,Da Nang,2,24042731
+1048,2026-01-22,C014,Tran Thi O,USB,Accessories,Hue,2,128032
+1049,2026-04-26,C002,Tran Thi B,Keyboard,Accessories,Hue,2,272260
+1050,2026-02-03,C015,Vo Van P,Headphone,Accessories,Hue,3,2441247
+1051,2026-01-25,C010,Bui Thi K,Monitor,Electronics,Da Nang,3,4679258
+1052,2026-03-11,C002,Tran Thi B,Printer,Office,Da Nang,3,1830312
+1053,2026-03-03,C017,Phan Van R,Camera,Electronics,Ha Noi,3,5004280
+1054,2026-01-11,C006,Nguyen Thi F,Mouse,Accessories,Can Tho,3,125815
+1055,2026-04-21,C008,Hoang Thi H,Tablet,Electronics,Da Nang,1,14057567
+1056,2026-03-16,C020,Tran Van U,Laptop,Electronics,Can Tho,4,12775453
+1057,2026-03-26,C019,Le Van T,Desk Lamp,Office,Can Tho,2,390868
+1058,2026-01-27,C011,Pham Van L,Monitor,Electronics,HCM,2,5695092
+1059,2026-03-27,C010,Bui Thi K,USB,Accessories,HCM,1,269096
+1060,2026-01-02,C015,Vo Van P,Desk Lamp,Office,Can Tho,1,354837
+1061,2026-03-10,C007,Tran Van G,Camera,Electronics,HCM,3,6497252
+1062,2026-04-23,C003,Le Van C,Monitor,Electronics,HCM,2,4765647
+1063,2026-02-26,C018,Nguyen Thi S,Headphone,Accessories,Can Tho,1,2072611
+1064,2026-03-27,C018,Nguyen Thi S,Headphone,Accessories,Da Nang,2,2221565
+1065,2026-02-03,C004,Pham Thi D,Mouse,Accessories,Can Tho,4,201499
+1066,2026-02-06,C020,Tran Van U,Monitor,Electronics,HCM,3,4082898
+1067,2026-03-06,C016,Dang Thi Q,Headphone,Accessories,Da Nang,3,553563
+1068,2026-02-24,C009,Do Van I,Laptop,Electronics,Da Nang,1,17596150
+1069,2026-03-23,C009,Do Van I,Keyboard,Accessories,Hue,5,878478
+1070,2026-03-13,C001,Nguyen Van A,Mouse,Accessories,Da Nang,6,198147
+1071,2026-01-05,C012,Le Thi M,Desk Lamp,Office,Can Tho,2,302643
+1072,2026-01-17,C002,Tran Thi B,Headphone,Accessories,HCM,2,443665
+1073,2026-01-27,C008,Hoang Thi H,Mouse,Accessories,HCM,3,312502
+1074,2026-04-24,C014,Tran Thi O,Desk Lamp,Office,Ha Noi,1,710366
+1075,2026-04-21,C006,Nguyen Thi F,Keyboard,Accessories,Hue,1,295990
+1076,2026-04-05,C011,Pham Van L,Tablet,Electronics,Ha Noi,2,9226257
+1077,2026-04-11,C004,Pham Thi D,Tablet,Electronics,Da Nang,1,12896868
+1078,2026-01-26,C015,Vo Van P,Printer,Office,HCM,1,3709209
+1079,2026-01-04,C007,Tran Van G,Tablet,Electronics,HCM,1,9424183
+1080,2026-04-09,C009,Do Van I,Printer,Office,Can Tho,3,5152745
+1081,2026-04-18,C018,Nguyen Thi S,Printer,Office,Da Nang,3,2193778
+1082,2026-01-23,C019,Le Van T,Headphone,Accessories,Da Nang,3,587336
+1083,2026-02-25,C012,Le Thi M,Printer,Office,Hue,3,4162624
+1084,2026-01-15,C013,Nguyen Van N,Desk Lamp,Office,Ha Noi,1,358547
+1085,2026-04-01,C014,Tran Thi O,Laptop,Electronics,Can Tho,3,19833725
+1086,2026-04-03,C007,Tran Van G,Printer,Office,Hue,3,2003491
+1087,2026-03-21,C011,Pham Van L,Mouse,Accessories,HCM,3,379878
+1088,2026-03-27,C014,Tran Thi O,Printer,Office,Hue,2,4544304
+1089,2026-03-12,C005,Vo Van E,Monitor,Electronics,Hue,2,5038916
+1090,2026-03-28,C006,Nguyen Thi F,Desk Lamp,Office,Can Tho,2,382784
+1091,2026-03-12,C001,Nguyen Van A,Headphone,Accessories,HCM,5,1281570
+1092,2026-04-11,C019,Le Van T,Desk Lamp,Office,HCM,2,468787
+1093,2026-02-26,C007,Tran Van G,Camera,Electronics,Hue,2,17591670
+1094,2026-03-26,C003,Le Van C,Headphone,Accessories,Can Tho,3,1772202
+1095,2026-01-12,C008,Hoang Thi H,Headphone,Accessories,Ha Noi,1,777605
+1096,2026-01-04,C002,Tran Thi B,Monitor,Electronics,Hue,1,4813868
+1097,2026-02-28,C014,Tran Thi O,Desk Lamp,Office,Ha Noi,3,601620
+1098,2026-02-19,C016,Dang Thi Q,Tablet,Electronics,Ha Noi,3,6975836
+1099,2026-03-30,C001,Nguyen Van A,Mouse,Accessories,Hue,3,234735
+1100,2026-04-13,C017,Phan Van R,USB,Accessories,Da Nang,1,218120
+1101,2026-04-28,C004,Pham Thi D,USB,Accessories,Ha Noi,6,323606
+1102,2026-03-13,C020,Tran Van U,Printer,Office,Hue,4,4279650
+1103,2026-04-17,C018,Nguyen Thi S,USB,Accessories,Ha Noi,4,270944
+1104,2026-02-27,C009,Do Van I,Monitor,Electronics,HCM,2,6872979
+1105,2026-03-22,C008,Hoang Thi H,Headphone,Accessories,Hue,3,522494
+1106,2026-02-06,C008,Hoang Thi H,Headphone,Accessories,HCM,3,1030479
+1107,2026-01-11,C005,Vo Van E,Keyboard,Accessories,Ha Noi,3,671641
+1108,2026-01-20,C007,Tran Van G,Mouse,Accessories,Hue,3,327699
+1109,2026-03-11,C015,Vo Van P,Tablet,Electronics,Da Nang,2,8470105
+1110,2026-02-19,C019,Le Van T,Laptop,Electronics,Can Tho,2,17181734
+1111,2026-01-01,C012,Le Thi M,Headphone,Accessories,Hue,3,1238751
+1112,2026-04-06,C018,Nguyen Thi S,Desk Lamp,Office,Ha Noi,2,749445
+1113,2026-02-04,C014,Tran Thi O,USB,Accessories,Da Nang,2,173936
+1114,2026-03-27,C013,Nguyen Van N,Keyboard,Accessories,Hue,3,403827
+1115,2026-03-10,C001,Nguyen Van A,Tablet,Electronics,Can Tho,3,14468926
+1116,2026-01-04,C003,Le Van C,Tablet,Electronics,Ha Noi,2,12496014
+1117,2026-01-07,C009,Do Van I,Tablet,Electronics,HCM,2,8551070
+1118,2026-02-11,C011,Pham Van L,Tablet,Electronics,HCM,3,11822684
+1119,2026-04-17,C003,Le Van C,USB,Accessories,Da Nang,1,272352
+1120,2026-02-14,C008,Hoang Thi H,Mouse,Accessories,Da Nang,1,305717
+1121,2026-02-01,C007,Tran Van G,Laptop,Electronics,Can Tho,2,13956551
+1122,2026-01-17,C016,Dang Thi Q,Mouse,Accessories,Can Tho,1,356448
+1123,2026-03-01,C009,Do Van I,Printer,Office,Ha Noi,1,2760771
+1124,2026-02-09,C004,Pham Thi D,Desk Lamp,Office,Da Nang,3,577110
+1125,2026-03-28,C013,Nguyen Van N,Tablet,Electronics,Ha Noi,3,5775009
+1126,2026-03-30,C008,Hoang Thi H,Mouse,Accessories,HCM,3,330899
+1127,2026-03-18,C004,Pham Thi D,Desk Lamp,Office,Da Nang,3,614069
+1128,2026-02-24,C012,Le Thi M,Mouse,Accessories,Can Tho,2,277749
+1129,2026-01-02,C014,Tran Thi O,USB,Accessories,Da Nang,2,185645
+1130,2026-03-23,C015,Vo Van P,Keyboard,Accessories,Hue,6,484692
+1131,2026-03-25,C009,Do Van I,Desk Lamp,Office,Can Tho,2,756983
+1132,2026-02-25,C019,Le Van T,Headphone,Accessories,HCM,1,874840
+1133,2026-02-05,C015,Vo Van P,Monitor,Electronics,Hue,3,7280245
+1134,2026-03-27,C013,Nguyen Van N,Printer,Office,Da Nang,2,3693271
+1135,2026-01-24,C016,Dang Thi Q,Monitor,Electronics,HCM,2,5596351
+1136,2026-02-13,C009,Do Van I,Desk Lamp,Office,HCM,1,832789
+1137,2026-03-08,C007,Tran Van G,Mouse,Accessories,Ha Noi,4,327085
+1138,2026-03-13,C008,Hoang Thi H,USB,Accessories,Hue,1,189486
+1139,2026-01-12,C010,Bui Thi K,Monitor,Electronics,Hue,1,5151565
+1140,2026-02-09,C019,Le Van T,Printer,Office,Hue,3,3941433
+1141,2026-02-14,C014,Tran Thi O,Camera,Electronics,HCM,3,9952401
+1142,2026-02-28,C009,Do Van I,Headphone,Accessories,HCM,2,1366946
+1143,2026-04-03,C007,Tran Van G,Printer,Office,Da Nang,2,4825869
+1144,2026-01-25,C007,Tran Van G,USB,Accessories,HCM,3,265945
+1145,2026-01-13,C007,Tran Van G,Headphone,Accessories,Ha Noi,2,1136822
+1146,2026-02-08,C001,Nguyen Van A,Camera,Electronics,Ha Noi,1,13704360
+1147,2026-01-07,C018,Nguyen Thi S,Headphone,Accessories,Ha Noi,4,1717709
+1148,2026-01-14,C001,Nguyen Van A,Desk Lamp,Office,HCM,2,742198
+1149,2026-02-26,C011,Pham Van L,Keyboard,Accessories,Da Nang,4,549742
+1150,2026-01-15,C003,Le Van C,Tablet,Electronics,Hue,1,5992892
+1151,2026-01-20,C005,Vo Van E,Desk Lamp,Office,HCM,1,269659
+1152,2026-01-16,C018,Nguyen Thi S,Tablet,Electronics,Can Tho,2,14751348
+1153,2026-04-10,C017,Phan Van R,Tablet,Electronics,Hue,2,11927625
+1154,2026-04-21,C019,Le Van T,Tablet,Electronics,HCM,3,14040019
+1155,2026-01-08,C020,Tran Van U,Mouse,Accessories,Ha Noi,3,224637
+1156,2026-03-26,C003,Le Van C,Keyboard,Accessories,Ha Noi,1,467256
+1157,2026-01-21,C001,Nguyen Van A,Tablet,Electronics,Hue,3,16565728
+1158,2026-03-02,C010,Bui Thi K,Laptop,Electronics,Ha Noi,3,15633597
+1159,2026-02-06,C015,Vo Van P,Mouse,Accessories,Ha Noi,6,258702
+1160,2026-03-26,C007,Tran Van G,Tablet,Electronics,Da Nang,2,13886240
+1161,2026-03-24,C005,Vo Van E,Headphone,Accessories,Ha Noi,1,509757
+1162,2026-01-22,C010,Bui Thi K,Desk Lamp,Office,Can Tho,2,707970
+1163,2026-02-26,C004,Pham Thi D,USB,Accessories,HCM,4,291030
+1164,2026-03-06,C018,Nguyen Thi S,USB,Accessories,Hue,1,97087
+1165,2026-04-24,C014,Tran Thi O,Printer,Office,Can Tho,1,2670119
+1166,2026-01-12,C008,Hoang Thi H,Desk Lamp,Office,Can Tho,3,235876
+1167,2026-04-16,C009,Do Van I,Desk Lamp,Office,Da Nang,2,433700
+1168,2026-03-08,C015,Vo Van P,Headphone,Accessories,Ha Noi,5,2228234
+1169,2026-01-12,C016,Dang Thi Q,Printer,Office,Hue,2,3017996
+1170,2026-03-27,C004,Pham Thi D,Keyboard,Accessories,HCM,5,731641
+1171,2026-02-06,C013,Nguyen Van N,Camera,Electronics,Da Nang,1,11680712
+1172,2026-02-10,C009,Do Van I,Printer,Office,Da Nang,3,5190466
+1173,2026-04-16,C001,Nguyen Van A,Camera,Electronics,Hue,1,18366287
+1174,2026-01-25,C017,Phan Van R,Printer,Office,Can Tho,2,4792752
+1175,2026-03-22,C015,Vo Van P,Laptop,Electronics,Ha Noi,3,16480460
+1176,2026-01-17,C010,Bui Thi K,USB,Accessories,Hue,1,103831
+1177,2026-03-22,C020,Tran Van U,Monitor,Electronics,Ha Noi,1,4981761
+1178,2026-03-12,C014,Tran Thi O,Mouse,Accessories,Ha Noi,1,328569
+1179,2026-03-01,C004,Pham Thi D,Keyboard,Accessories,Hue,4,1051413
+1180,2026-03-07,C009,Do Van I,Tablet,Electronics,Hue,1,12922533
+1181,2026-02-28,C018,Nguyen Thi S,Keyboard,Accessories,Hue,2,484869
+1182,2026-04-21,C003,Le Van C,Headphone,Accessories,Hue,3,1092770
+1183,2026-04-16,C001,Nguyen Van A,Headphone,Accessories,HCM,3,2453700
+1184,2026-02-27,C018,Nguyen Thi S,USB,Accessories,HCM,4,163147
+1185,2026-02-28,C011,Pham Van L,Monitor,Electronics,Ha Noi,4,7171586
+1186,2026-01-30,C014,Tran Thi O,Laptop,Electronics,HCM,3,18735224
+1187,2026-04-27,C013,Nguyen Van N,Tablet,Electronics,Ha Noi,1,12810235
+1188,2026-01-17,C017,Phan Van R,Desk Lamp,Office,HCM,1,680973
+1189,2026-04-22,C015,Vo Van P,Mouse,Accessories,Can Tho,2,359561
+1190,2026-04-03,C005,Vo Van E,Tablet,Electronics,Ha Noi,2,5755409
+1191,2026-04-11,C009,Do Van I,Printer,Office,Can Tho,3,5134331
+1192,2026-01-11,C011,Pham Van L,Camera,Electronics,Hue,4,9587692
+1193,2026-04-22,C018,Nguyen Thi S,Laptop,Electronics,Can Tho,2,12547909
+1194,2026-03-22,C010,Bui Thi K,Monitor,Electronics,Da Nang,1,4070208
+1195,2026-04-08,C004,Pham Thi D,USB,Accessories,Ha Noi,2,237006
+1196,2026-01-06,C011,Pham Van L,Laptop,Electronics,HCM,3,17414016
+1197,2026-02-25,C005,Vo Van E,Monitor,Electronics,Can Tho,3,3978270
+1198,2026-03-29,C006,Nguyen Thi F,Keyboard,Accessories,Ha Noi,3,352804
+1199,2026-04-22,C013,Nguyen Van N,Desk Lamp,Office,Ha Noi,3,485920
+1200,2026-01-19,C008,Hoang Thi H,USB,Accessories,HCM,2,192473
+1201,2026-03-27,C001,Nguyen Van A,USB,Accessories,HCM,2,162824
+1202,2026-02-26,C012,Le Thi M,Desk Lamp,Office,HCM,2,559987
+1203,2026-03-30,C009,Do Van I,USB,Accessories,HCM,5,184447
+1204,2026-04-20,C016,Dang Thi Q,Mouse,Accessories,Ha Noi,3,207972
+1205,2026-02-15,C019,Le Van T,Headphone,Accessories,HCM,3,406010
+1206,2026-02-20,C009,Do Van I,Laptop,Electronics,Can Tho,3,26513422
+1207,2026-04-10,C002,Tran Thi B,Desk Lamp,Office,Hue,2,661647
+1208,2026-04-10,C008,Hoang Thi H,Desk Lamp,Office,HCM,3,339821
+1209,2026-01-25,C020,Tran Van U,Headphone,Accessories,Ha Noi,1,1697531
+1210,2026-04-26,C002,Tran Thi B,Headphone,Accessories,Hue,3,429970
+1211,2026-02-16,C005,Vo Van E,Mouse,Accessories,HCM,3,193647
+1212,2026-02-23,C006,Nguyen Thi F,Monitor,Electronics,Ha Noi,3,5548873
+1213,2026-04-23,C012,Le Thi M,Camera,Electronics,Can Tho,1,8622250
+1214,2026-02-02,C016,Dang Thi Q,Headphone,Accessories,HCM,2,601528
+1215,2026-01-10,C005,Vo Van E,Monitor,Electronics,Hue,3,6307023
+1216,2026-02-16,C003,Le Van C,Tablet,Electronics,Da Nang,1,9186878
+1217,2026-02-28,C012,Le Thi M,Headphone,Accessories,Can Tho,3,1159068
+1218,2026-02-17,C004,Pham Thi D,Monitor,Electronics,Hue,3,2709921
+1219,2026-04-24,C018,Nguyen Thi S,Printer,Office,Can Tho,1,2638481
+1220,2026-03-23,C015,Vo Van P,Headphone,Accessories,Hue,3,889374
+1221,2026-01-06,C002,Tran Thi B,Headphone,Accessories,Hue,1,603522
+1222,2026-01-31,C018,Nguyen Thi S,Keyboard,Accessories,Hue,3,760679
+1223,2026-03-27,C018,Nguyen Thi S,Tablet,Electronics,Can Tho,4,7342464
+1224,2026-03-25,C004,Pham Thi D,USB,Accessories,Can Tho,4,293970
+1225,2026-01-05,C012,Le Thi M,Monitor,Electronics,Hue,1,4115189
+1226,2026-04-20,C012,Le Thi M,Mouse,Accessories,HCM,3,250728
+1227,2026-02-15,C002,Tran Thi B,Tablet,Electronics,HCM,1,7684459
+1228,2026-04-19,C015,Vo Van P,Mouse,Accessories,Ha Noi,2,433076
+1229,2026-01-07,C011,Pham Van L,Monitor,Electronics,Ha Noi,2,7111023
+1230,2026-01-09,C018,Nguyen Thi S,Monitor,Electronics,Can Tho,2,4186531
+1231,2026-02-12,C005,Vo Van E,Desk Lamp,Office,Da Nang,1,370371
+1232,2026-01-17,C018,Nguyen Thi S,Headphone,Accessories,Ha Noi,1,610532
+1233,2026-01-17,C001,Nguyen Van A,Printer,Office,Ha Noi,1,4515991
+1234,2026-01-23,C009,Do Van I,Laptop,Electronics,Ha Noi,2,24443964
+1235,2026-03-09,C004,Pham Thi D,Mouse,Accessories,Hue,4,355025
+1236,2026-03-07,C019,Le Van T,Mouse,Accessories,Hue,1,240078
+1237,2026-03-20,C002,Tran Thi B,Camera,Electronics,HCM,3,11734678
+1238,2026-01-04,C002,Tran Thi B,USB,Accessories,Hue,3,183745
+1239,2026-01-14,C016,Dang Thi Q,USB,Accessories,Da Nang,2,93178
+1240,2026-03-19,C005,Vo Van E,Mouse,Accessories,Ha Noi,3,180093

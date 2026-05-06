@@ -1,0 +1,6 @@
+OrderDate,CustomerID,CustomerName,Region,Product,Quantity,UnitPrice
+2026-01-10,C201,Doc Gia 1,Mien Nam,"Sách Thay Đổi Câu Hỏi",15487,110250
+2026-02-12,C202,Doc Gia 2,Mien Bac,"Sách Tâm Lý Học Tội Phạm",3330,185000
+2026-03-15,C203,Doc Gia 3,Mien Trung,"Combo 3 Cuốn Sách Tư Duy",7020,313200
+2026-04-02,C204,Doc Gia 4,Mien Nam,"Sổ Tay Ghi Chép Lò Xo A5",1280,45000
+2026-04-20,C205,Doc Gia 5,Mien Bac,"Bút Bi Thiên Long",3734,84000

@@ -1,0 +1,301 @@
+OrderID,OrderDate,CustomerID,CustomerName,Product,Category,Region,Quantity,UnitPrice
+2001,2026-02-14,C009,Do Van I,Rice Cooker,Home Appliance,Hue,1,1783007
+2002,2026-02-10,C013,Nguyen Van N,Study Desk,Furniture,Can Tho,2,4316676
+2003,2026-02-14,C006,Nguyen Thi F,Water Purifier,Home Appliance,HCM,2,7680690
+2004,2026-04-04,C006,Nguyen Thi F,Air Fryer,Home Appliance,Hue,3,1387477
+2005,2026-05-08,C003,Le Van C,Air Fryer,Home Appliance,HCM,1,2960397
+2006,2026-02-12,C003,Le Van C,Smart Watch,Wearable,Ha Noi,1,3738118
+2007,2026-04-16,C014,Tran Thi O,Bookshelf,Furniture,Hue,2,1877839
+2008,2026-02-10,C010,Bui Thi K,Microwave,Kitchen,Can Tho,1,5326372
+2009,2026-06-15,C019,Le Van T,Microwave,Kitchen,Da Nang,3,4615663
+2010,2026-06-12,C014,Tran Thi O,Smart Watch,Wearable,Can Tho,3,9686016
+2011,2026-05-19,C012,Le Thi M,Study Desk,Furniture,Da Nang,1,6944438
+2012,2026-02-22,C016,Dang Thi Q,Smart Watch,Wearable,HCM,2,4384255
+2013,2026-04-28,C018,Nguyen Thi S,Coffee Maker,Kitchen,Da Nang,4,4641639
+2014,2026-06-27,C011,Pham Van L,Air Fryer,Home Appliance,Ha Noi,1,3538708
+2015,2026-05-05,C001,Nguyen Van A,Microwave,Kitchen,Ha Noi,2,4828416
+2016,2026-04-15,C016,Dang Thi Q,Smart Watch,Wearable,Quang Nam,3,5445352
+2017,2026-06-04,C006,Nguyen Thi F,Water Purifier,Home Appliance,Can Tho,2,6703735
+2018,2026-05-30,C002,Tran Thi B,Air Fryer,Home Appliance,Ha Noi,1,2934030
+2019,2026-02-06,C009,Do Van I,Microwave,Kitchen,Quang Nam,5,3706112
+2020,2026-05-19,C001,Nguyen Van A,Rice Cooker,Home Appliance,Can Tho,3,927600
+2021,2026-05-02,C023,Nguyen Van X,Rice Cooker,Home Appliance,Da Nang,1,1503486
+2022,2026-06-18,C013,Nguyen Van N,Rice Cooker,Home Appliance,Can Tho,3,2050855
+2023,2026-05-15,C001,Nguyen Van A,Microwave,Kitchen,HCM,2,5388707
+2024,2026-06-24,C011,Pham Van L,Coffee Maker,Kitchen,HCM,2,1009583
+2025,2026-05-19,C003,Le Van C,Bluetooth Speaker,Audio,Quang Nam,3,1143913
+2026,2026-04-02,C024,Le Thi Y,Rice Cooker,Home Appliance,Quang Nam,4,749871
+2027,2026-06-18,C010,Bui Thi K,Water Purifier,Home Appliance,Quang Nam,2,9454792
+2028,2026-05-11,C012,Le Thi M,Water Purifier,Home Appliance,Can Tho,3,5808036
+2029,2026-03-03,C021,Hoang Van V,Water Purifier,Home Appliance,Can Tho,2,9805135
+2030,2026-02-16,C024,Le Thi Y,Water Purifier,Home Appliance,Hue,1,8757341
+2031,2026-05-01,C015,Vo Van P,Bluetooth Speaker,Audio,Quang Nam,5,3590470
+2032,2026-04-19,C014,Tran Thi O,Air Fryer,Home Appliance,Ha Noi,2,3207710
+2033,2026-06-13,C017,Phan Van R,Study Desk,Furniture,Ha Noi,3,4412081
+2034,2026-02-27,C018,Nguyen Thi S,Bluetooth Speaker,Audio,HCM,3,1483316
+2035,2026-02-24,C009,Do Van I,Study Desk,Furniture,Ha Noi,2,3415169
+2036,2026-04-09,C013,Nguyen Van N,Air Fryer,Home Appliance,Can Tho,1,1357061
+2037,2026-06-10,C007,Tran Van G,Air Fryer,Home Appliance,Ha Noi,2,2205121
+2038,2026-02-22,C020,Tran Van U,Microwave,Kitchen,Da Nang,2,4211725
+2039,2026-06-17,C005,Vo Van E,Office Chair,Furniture,Hue,2,4084192
+2040,2026-02-08,C009,Do Van I,Bluetooth Speaker,Audio,Can Tho,5,4207097
+2041,2026-04-29,C013,Nguyen Van N,Vacuum Cleaner,Home Appliance,Can Tho,3,2587855
+2042,2026-02-02,C020,Tran Van U,Bookshelf,Furniture,Hue,1,2250301
+2043,2026-02-14,C012,Le Thi M,Office Chair,Furniture,HCM,3,5036814
+2044,2026-05-19,C011,Pham Van L,Microwave,Kitchen,Ha Noi,3,5116877
+2045,2026-03-22,C006,Nguyen Thi F,Coffee Maker,Kitchen,Da Nang,2,4295032
+2046,2026-05-08,C017,Phan Van R,Blender,Kitchen,Ha Noi,2,1597371
+2047,2026-05-06,C003,Le Van C,Blender,Kitchen,Da Nang,3,1006617
+2048,2026-02-15,C013,Nguyen Van N,Air Fryer,Home Appliance,Can Tho,2,2649143
+2049,2026-02-28,C015,Vo Van P,Bookshelf,Furniture,Quang Nam,1,2216870
+2050,2026-05-26,C009,Do Van I,Office Chair,Furniture,Can Tho,2,5934266
+2051,2026-04-05,C023,Nguyen Van X,Office Chair,Furniture,Can Tho,2,3431551
+2052,2026-04-28,C002,Tran Thi B,Water Purifier,Home Appliance,Da Nang,2,3142035
+2053,2026-06-08,C024,Le Thi Y,Water Purifier,Home Appliance,Hue,1,7638791
+2054,2026-06-01,C018,Nguyen Thi S,Water Purifier,Home Appliance,HCM,3,10452008
+2055,2026-03-29,C020,Tran Van U,Air Fryer,Home Appliance,Hue,3,3194416
+2056,2026-06-29,C001,Nguyen Van A,Microwave,Kitchen,Quang Nam,3,4667204
+2057,2026-02-17,C009,Do Van I,Blender,Kitchen,Ha Noi,4,1347534
+2058,2026-05-20,C002,Tran Thi B,Bookshelf,Furniture,Da Nang,3,2848770
+2059,2026-03-15,C007,Tran Van G,Air Fryer,Home Appliance,HCM,2,3281054
+2060,2026-06-16,C007,Tran Van G,Blender,Kitchen,Hue,4,2265448
+2061,2026-03-30,C010,Bui Thi K,Study Desk,Furniture,Da Nang,2,2395939
+2062,2026-06-20,C018,Nguyen Thi S,Blender,Kitchen,Ha Noi,1,1542000
+2063,2026-05-12,C014,Tran Thi O,Office Chair,Furniture,Da Nang,3,1272295
+2064,2026-05-22,C021,Hoang Van V,Coffee Maker,Kitchen,Can Tho,3,3845255
+2065,2026-06-07,C005,Vo Van E,Vacuum Cleaner,Home Appliance,Ha Noi,1,3554267
+2066,2026-04-04,C007,Tran Van G,Rice Cooker,Home Appliance,Hue,1,2574349
+2067,2026-02-03,C014,Tran Thi O,Smart Watch,Wearable,HCM,1,2032475
+2068,2026-04-05,C024,Le Thi Y,Coffee Maker,Kitchen,Quang Nam,2,3254299
+2069,2026-04-19,C004,Pham Thi D,Blender,Kitchen,Quang Nam,4,1823530
+2070,2026-03-27,C017,Phan Van R,Air Fryer,Home Appliance,Quang Nam,1,2536378
+2071,2026-05-31,C008,Hoang Thi H,Coffee Maker,Kitchen,Ha Noi,3,2906415
+2072,2026-05-23,C013,Nguyen Van N,Study Desk,Furniture,Ha Noi,1,4802285
+2073,2026-06-08,C002,Tran Thi B,Blender,Kitchen,Ha Noi,3,1422501
+2074,2026-02-28,C005,Vo Van E,Rice Cooker,Home Appliance,Hue,3,1335050
+2075,2026-02-05,C015,Vo Van P,Study Desk,Furniture,HCM,2,4132265
+2076,2026-03-27,C013,Nguyen Van N,Air Fryer,Home Appliance,Da Nang,1,3152887
+2077,2026-04-25,C024,Le Thi Y,Rice Cooker,Home Appliance,Quang Nam,4,1061910
+2078,2026-03-19,C014,Tran Thi O,Water Purifier,Home Appliance,Hue,1,4154207
+2079,2026-03-14,C003,Le Van C,Microwave,Kitchen,Da Nang,2,2173856
+2080,2026-03-29,C015,Vo Van P,Coffee Maker,Kitchen,Ha Noi,2,4249582
+2081,2026-02-15,C005,Vo Van E,Rice Cooker,Home Appliance,Hue,1,2053981
+2082,2026-03-07,C022,Pham Thi W,Air Fryer,Home Appliance,HCM,1,2863289
+2083,2026-04-03,C008,Hoang Thi H,Coffee Maker,Kitchen,HCM,1,3581835
+2084,2026-02-23,C022,Pham Thi W,Air Fryer,Home Appliance,HCM,3,2393139
+2085,2026-05-14,C012,Le Thi M,Vacuum Cleaner,Home Appliance,Da Nang,3,2016162
+2086,2026-02-17,C004,Pham Thi D,Vacuum Cleaner,Home Appliance,HCM,1,3676903
+2087,2026-06-23,C001,Nguyen Van A,Bookshelf,Furniture,Quang Nam,3,4460414
+2088,2026-04-09,C014,Tran Thi O,Study Desk,Furniture,HCM,3,4638909
+2089,2026-03-06,C014,Tran Thi O,Air Fryer,Home Appliance,Can Tho,2,2233533
+2090,2026-04-22,C023,Nguyen Van X,Air Fryer,Home Appliance,HCM,1,3143838
+2091,2026-04-17,C003,Le Van C,Coffee Maker,Kitchen,Quang Nam,3,2350678
+2092,2026-05-25,C004,Pham Thi D,Bluetooth Speaker,Audio,Can Tho,3,3697174
+2093,2026-05-14,C021,Hoang Van V,Smart Watch,Wearable,Da Nang,1,4925854
+2094,2026-05-03,C014,Tran Thi O,Office Chair,Furniture,HCM,3,3760909
+2095,2026-06-20,C006,Nguyen Thi F,Coffee Maker,Kitchen,Da Nang,3,1857046
+2096,2026-02-08,C021,Hoang Van V,Smart Watch,Wearable,Ha Noi,2,4942557
+2097,2026-03-20,C004,Pham Thi D,Water Purifier,Home Appliance,Quang Nam,2,5026122
+2098,2026-03-04,C003,Le Van C,Microwave,Kitchen,Da Nang,3,3487845
+2099,2026-03-06,C009,Do Van I,Coffee Maker,Kitchen,Da Nang,2,3035894
+2100,2026-06-17,C004,Pham Thi D,Microwave,Kitchen,HCM,4,6776814
+2101,2026-05-24,C008,Hoang Thi H,Air Fryer,Home Appliance,Da Nang,3,1494985
+2102,2026-02-26,C015,Vo Van P,Coffee Maker,Kitchen,HCM,3,2367422
+2103,2026-05-11,C001,Nguyen Van A,Coffee Maker,Kitchen,Ha Noi,2,2868118
+2104,2026-05-18,C005,Vo Van E,Rice Cooker,Home Appliance,Ha Noi,2,1719340
+2105,2026-05-19,C006,Nguyen Thi F,Coffee Maker,Kitchen,HCM,1,1037288
+2106,2026-03-04,C019,Le Van T,Coffee Maker,Kitchen,HCM,1,3149137
+2107,2026-06-20,C023,Nguyen Van X,Vacuum Cleaner,Home Appliance,HCM,3,4142262
+2108,2026-06-21,C022,Pham Thi W,Microwave,Kitchen,Da Nang,2,2493583
+2109,2026-04-14,C007,Tran Van G,Coffee Maker,Kitchen,Ha Noi,1,4983282
+2110,2026-05-20,C003,Le Van C,Water Purifier,Home Appliance,Ha Noi,1,8737426
+2111,2026-06-21,C008,Hoang Thi H,Rice Cooker,Home Appliance,Hue,1,1807762
+2112,2026-05-14,C019,Le Van T,Bluetooth Speaker,Audio,Hue,3,3492741
+2113,2026-05-05,C003,Le Van C,Vacuum Cleaner,Home Appliance,Da Nang,1,5305269
+2114,2026-06-17,C010,Bui Thi K,Bluetooth Speaker,Audio,Da Nang,3,1383391
+2115,2026-02-10,C005,Vo Van E,Smart Watch,Wearable,Can Tho,3,3184427
+2116,2026-02-13,C014,Tran Thi O,Bluetooth Speaker,Audio,Hue,2,3090607
+2117,2026-04-27,C022,Pham Thi W,Water Purifier,Home Appliance,Quang Nam,2,8493467
+2118,2026-05-21,C022,Pham Thi W,Smart Watch,Wearable,Da Nang,1,2994829
+2119,2026-03-28,C005,Vo Van E,Smart Watch,Wearable,Quang Nam,3,3810671
+2120,2026-06-30,C010,Bui Thi K,Microwave,Kitchen,Can Tho,3,4804939
+2121,2026-04-09,C010,Bui Thi K,Coffee Maker,Kitchen,Ha Noi,3,3002704
+2122,2026-06-21,C003,Le Van C,Air Fryer,Home Appliance,Can Tho,2,3612970
+2123,2026-06-14,C020,Tran Van U,Smart Watch,Wearable,Can Tho,4,3316698
+2124,2026-04-05,C021,Hoang Van V,Study Desk,Furniture,Hue,2,1957051
+2125,2026-04-17,C015,Vo Van P,Microwave,Kitchen,Quang Nam,4,3809181
+2126,2026-03-23,C006,Nguyen Thi F,Air Fryer,Home Appliance,HCM,3,1239729
+2127,2026-02-25,C016,Dang Thi Q,Microwave,Kitchen,Hue,1,2761480
+2128,2026-02-19,C008,Hoang Thi H,Bookshelf,Furniture,Hue,3,1334569
+2129,2026-02-26,C016,Dang Thi Q,Study Desk,Furniture,Ha Noi,3,6790799
+2130,2026-06-08,C011,Pham Van L,Microwave,Kitchen,Can Tho,3,4841829
+2131,2026-04-28,C022,Pham Thi W,Office Chair,Furniture,Ha Noi,1,2006827
+2132,2026-02-14,C023,Nguyen Van X,Study Desk,Furniture,Quang Nam,2,2735540
+2133,2026-02-11,C005,Vo Van E,Water Purifier,Home Appliance,Quang Nam,3,4377915
+2134,2026-05-14,C024,Le Thi Y,Water Purifier,Home Appliance,Can Tho,2,10538425
+2135,2026-06-11,C021,Hoang Van V,Water Purifier,Home Appliance,Hue,3,11715845
+2136,2026-02-02,C016,Dang Thi Q,Water Purifier,Home Appliance,HCM,3,5912540
+2137,2026-06-10,C021,Hoang Van V,Office Chair,Furniture,Ha Noi,2,1701101
+2138,2026-06-01,C013,Nguyen Van N,Microwave,Kitchen,Da Nang,2,4876898
+2139,2026-02-23,C011,Pham Van L,Office Chair,Furniture,Hue,1,1201364
+2140,2026-02-10,C023,Nguyen Van X,Microwave,Kitchen,HCM,1,3962003
+2141,2026-06-21,C023,Nguyen Van X,Smart Watch,Wearable,Can Tho,3,9517711
+2142,2026-04-29,C022,Pham Thi W,Vacuum Cleaner,Home Appliance,Da Nang,1,3078991
+2143,2026-05-26,C007,Tran Van G,Smart Watch,Wearable,Hue,1,8810165
+2144,2026-05-01,C021,Hoang Van V,Water Purifier,Home Appliance,HCM,3,9305415
+2145,2026-04-21,C022,Pham Thi W,Rice Cooker,Home Appliance,HCM,1,1026650
+2146,2026-03-03,C018,Nguyen Thi S,Water Purifier,Home Appliance,Can Tho,4,3234327
+2147,2026-06-12,C014,Tran Thi O,Coffee Maker,Kitchen,Quang Nam,1,2860294
+2148,2026-03-21,C006,Nguyen Thi F,Microwave,Kitchen,Ha Noi,3,4035604
+2149,2026-05-18,C024,Le Thi Y,Office Chair,Furniture,Da Nang,1,4401209
+2150,2026-05-03,C017,Phan Van R,Coffee Maker,Kitchen,Da Nang,2,1586904
+2151,2026-02-23,C023,Nguyen Van X,Rice Cooker,Home Appliance,HCM,1,961816
+2152,2026-02-22,C003,Le Van C,Coffee Maker,Kitchen,Quang Nam,4,4572267
+2153,2026-05-26,C023,Nguyen Van X,Air Fryer,Home Appliance,Hue,1,1236209
+2154,2026-04-18,C017,Phan Van R,Coffee Maker,Kitchen,Hue,3,4259724
+2155,2026-04-27,C012,Le Thi M,Microwave,Kitchen,Da Nang,3,4069366
+2156,2026-03-20,C004,Pham Thi D,Air Fryer,Home Appliance,Hue,3,2783479
+2157,2026-04-24,C002,Tran Thi B,Vacuum Cleaner,Home Appliance,HCM,3,4181453
+2158,2026-04-15,C005,Vo Van E,Microwave,Kitchen,Can Tho,2,5231810
+2159,2026-03-30,C018,Nguyen Thi S,Air Fryer,Home Appliance,Can Tho,2,3055132
+2160,2026-03-26,C011,Pham Van L,Vacuum Cleaner,Home Appliance,Quang Nam,2,5611855
+2161,2026-04-21,C006,Nguyen Thi F,Vacuum Cleaner,Home Appliance,Hue,2,5575896
+2162,2026-06-02,C021,Hoang Van V,Office Chair,Furniture,Hue,2,3402188
+2163,2026-04-17,C003,Le Van C,Smart Watch,Wearable,Hue,1,9437977
+2164,2026-04-24,C013,Nguyen Van N,Bookshelf,Furniture,Can Tho,3,3334821
+2165,2026-03-06,C008,Hoang Thi H,Air Fryer,Home Appliance,Ha Noi,3,2765847
+2166,2026-05-25,C022,Pham Thi W,Bookshelf,Furniture,HCM,1,3312610
+2167,2026-04-16,C006,Nguyen Thi F,Study Desk,Furniture,Ha Noi,3,5030090
+2168,2026-02-22,C019,Le Van T,Coffee Maker,Kitchen,Can Tho,2,1029984
+2169,2026-05-31,C023,Nguyen Van X,Smart Watch,Wearable,Ha Noi,2,4352528
+2170,2026-03-05,C005,Vo Van E,Blender,Kitchen,Hue,1,748973
+2171,2026-05-28,C009,Do Van I,Bookshelf,Furniture,Ha Noi,1,3427183
+2172,2026-04-17,C007,Tran Van G,Bookshelf,Furniture,Can Tho,3,1016300
+2173,2026-03-22,C020,Tran Van U,Office Chair,Furniture,Da Nang,2,2597557
+2174,2026-04-27,C020,Tran Van U,Smart Watch,Wearable,Ha Noi,1,7085788
+2175,2026-02-26,C008,Hoang Thi H,Air Fryer,Home Appliance,HCM,1,1923979
+2176,2026-03-17,C015,Vo Van P,Coffee Maker,Kitchen,Ha Noi,2,1647754
+2177,2026-04-02,C021,Hoang Van V,Rice Cooker,Home Appliance,Hue,1,1318358
+2178,2026-04-20,C006,Nguyen Thi F,Office Chair,Furniture,Ha Noi,2,3460668
+2179,2026-05-14,C001,Nguyen Van A,Bookshelf,Furniture,Hue,2,2159064
+2180,2026-05-22,C024,Le Thi Y,Bookshelf,Furniture,Ha Noi,2,3198650
+2181,2026-03-22,C008,Hoang Thi H,Blender,Kitchen,Quang Nam,2,1834337
+2182,2026-06-10,C005,Vo Van E,Smart Watch,Wearable,Can Tho,1,4840845
+2183,2026-06-16,C006,Nguyen Thi F,Vacuum Cleaner,Home Appliance,Hue,1,2525745
+2184,2026-04-19,C021,Hoang Van V,Water Purifier,Home Appliance,Quang Nam,2,3598651
+2185,2026-05-15,C008,Hoang Thi H,Study Desk,Furniture,Quang Nam,3,3473978
+2186,2026-05-22,C023,Nguyen Van X,Rice Cooker,Home Appliance,HCM,3,1122432
+2187,2026-04-18,C009,Do Van I,Vacuum Cleaner,Home Appliance,Ha Noi,1,6888558
+2188,2026-03-21,C001,Nguyen Van A,Smart Watch,Wearable,Quang Nam,2,3228784
+2189,2026-06-12,C010,Bui Thi K,Office Chair,Furniture,Da Nang,2,1798098
+2190,2026-04-24,C017,Phan Van R,Rice Cooker,Home Appliance,Hue,2,1736980
+2191,2026-02-25,C015,Vo Van P,Smart Watch,Wearable,Da Nang,2,4082703
+2192,2026-04-27,C005,Vo Van E,Office Chair,Furniture,Quang Nam,2,4090362
+2193,2026-04-19,C004,Pham Thi D,Bluetooth Speaker,Audio,Hue,4,2582553
+2194,2026-05-07,C004,Pham Thi D,Vacuum Cleaner,Home Appliance,HCM,2,7600277
+2195,2026-04-10,C019,Le Van T,Study Desk,Furniture,Da Nang,1,2398195
+2196,2026-04-30,C012,Le Thi M,Office Chair,Furniture,Hue,1,2644870
+2197,2026-03-18,C008,Hoang Thi H,Water Purifier,Home Appliance,Quang Nam,2,8639031
+2198,2026-03-25,C024,Le Thi Y,Office Chair,Furniture,Ha Noi,4,3125569
+2199,2026-05-07,C013,Nguyen Van N,Water Purifier,Home Appliance,HCM,2,7781993
+2200,2026-05-13,C018,Nguyen Thi S,Bluetooth Speaker,Audio,Hue,1,3422642
+2201,2026-04-01,C016,Dang Thi Q,Vacuum Cleaner,Home Appliance,Quang Nam,1,6544761
+2202,2026-03-12,C020,Tran Van U,Microwave,Kitchen,Hue,1,4037055
+2203,2026-05-31,C011,Pham Van L,Office Chair,Furniture,Quang Nam,2,1534299
+2204,2026-02-06,C009,Do Van I,Water Purifier,Home Appliance,HCM,2,6384172
+2205,2026-03-19,C022,Pham Thi W,Smart Watch,Wearable,Ha Noi,3,5589296
+2206,2026-03-05,C006,Nguyen Thi F,Smart Watch,Wearable,HCM,3,8262877
+2207,2026-06-02,C002,Tran Thi B,Coffee Maker,Kitchen,Can Tho,2,2524010
+2208,2026-04-25,C005,Vo Van E,Rice Cooker,Home Appliance,Ha Noi,2,2148112
+2209,2026-04-19,C003,Le Van C,Microwave,Kitchen,Ha Noi,3,4851817
+2210,2026-05-29,C018,Nguyen Thi S,Bluetooth Speaker,Audio,Hue,1,3136879
+2211,2026-02-15,C008,Hoang Thi H,Water Purifier,Home Appliance,Hue,2,9421370
+2212,2026-03-31,C004,Pham Thi D,Study Desk,Furniture,Hue,3,2051621
+2213,2026-05-07,C005,Vo Van E,Vacuum Cleaner,Home Appliance,Ha Noi,3,1696702
+2214,2026-02-17,C003,Le Van C,Study Desk,Furniture,Can Tho,4,5848981
+2215,2026-06-18,C021,Hoang Van V,Office Chair,Furniture,HCM,2,2748229
+2216,2026-05-12,C021,Hoang Van V,Smart Watch,Wearable,Ha Noi,3,10373416
+2217,2026-03-27,C007,Tran Van G,Air Fryer,Home Appliance,Quang Nam,2,3922210
+2218,2026-04-18,C009,Do Van I,Office Chair,Furniture,HCM,3,2288943
+2219,2026-05-12,C011,Pham Van L,Water Purifier,Home Appliance,Ha Noi,1,4430343
+2220,2026-05-07,C021,Hoang Van V,Vacuum Cleaner,Home Appliance,HCM,3,2602181
+2221,2026-05-24,C002,Tran Thi B,Bluetooth Speaker,Audio,Da Nang,3,2061652
+2222,2026-06-25,C002,Tran Thi B,Smart Watch,Wearable,Can Tho,3,8085456
+2223,2026-04-28,C021,Hoang Van V,Rice Cooker,Home Appliance,Ha Noi,2,1486714
+2224,2026-05-17,C008,Hoang Thi H,Office Chair,Furniture,Can Tho,2,3644349
+2225,2026-03-24,C019,Le Van T,Microwave,Kitchen,HCM,3,5313010
+2226,2026-04-07,C021,Hoang Van V,Office Chair,Furniture,HCM,3,5412652
+2227,2026-05-05,C006,Nguyen Thi F,Office Chair,Furniture,Hue,1,3218778
+2228,2026-03-07,C005,Vo Van E,Smart Watch,Wearable,Hue,3,2360167
+2229,2026-05-04,C013,Nguyen Van N,Smart Watch,Wearable,Hue,1,5069139
+2230,2026-04-26,C001,Nguyen Van A,Vacuum Cleaner,Home Appliance,Quang Nam,1,3624952
+2231,2026-03-05,C009,Do Van I,Vacuum Cleaner,Home Appliance,Hue,3,2857558
+2232,2026-06-12,C013,Nguyen Van N,Coffee Maker,Kitchen,Quang Nam,1,1563502
+2233,2026-02-17,C024,Le Thi Y,Smart Watch,Wearable,Can Tho,2,5428567
+2234,2026-04-05,C002,Tran Thi B,Office Chair,Furniture,HCM,1,2435485
+2235,2026-05-12,C013,Nguyen Van N,Study Desk,Furniture,Da Nang,2,6039425
+2236,2026-05-09,C023,Nguyen Van X,Water Purifier,Home Appliance,Can Tho,1,6526796
+2237,2026-04-25,C008,Hoang Thi H,Microwave,Kitchen,Can Tho,1,1588800
+2238,2026-05-23,C021,Hoang Van V,Microwave,Kitchen,Hue,2,2346392
+2239,2026-06-08,C001,Nguyen Van A,Bookshelf,Furniture,Quang Nam,2,1094164
+2240,2026-02-17,C006,Nguyen Thi F,Bluetooth Speaker,Audio,Da Nang,2,1065100
+2241,2026-03-21,C009,Do Van I,Vacuum Cleaner,Home Appliance,Ha Noi,1,8014858
+2242,2026-05-25,C001,Nguyen Van A,Air Fryer,Home Appliance,Da Nang,1,3265972
+2243,2026-06-03,C011,Pham Van L,Study Desk,Furniture,Ha Noi,2,7427828
+2244,2026-06-08,C024,Le Thi Y,Office Chair,Furniture,Can Tho,1,3075361
+2245,2026-05-20,C004,Pham Thi D,Office Chair,Furniture,Da Nang,3,4084571
+2246,2026-02-19,C005,Vo Van E,Office Chair,Furniture,Can Tho,1,3257206
+2247,2026-06-23,C005,Vo Van E,Vacuum Cleaner,Home Appliance,Ha Noi,1,3587318
+2248,2026-02-22,C009,Do Van I,Bookshelf,Furniture,HCM,1,1253349
+2249,2026-04-02,C001,Nguyen Van A,Smart Watch,Wearable,HCM,2,7962179
+2250,2026-03-02,C008,Hoang Thi H,Study Desk,Furniture,HCM,1,1648364
+2251,2026-04-13,C003,Le Van C,Smart Watch,Wearable,Quang Nam,4,10345966
+2252,2026-04-04,C012,Le Thi M,Microwave,Kitchen,Hue,3,3031120
+2253,2026-05-23,C016,Dang Thi Q,Air Fryer,Home Appliance,Da Nang,1,1251297
+2254,2026-02-26,C016,Dang Thi Q,Coffee Maker,Kitchen,Ha Noi,3,2960122
+2255,2026-06-16,C023,Nguyen Van X,Bluetooth Speaker,Audio,Da Nang,3,2814398
+2256,2026-03-25,C012,Le Thi M,Bluetooth Speaker,Audio,Ha Noi,3,1052200
+2257,2026-06-26,C006,Nguyen Thi F,Bookshelf,Furniture,Can Tho,3,3453692
+2258,2026-04-19,C009,Do Van I,Rice Cooker,Home Appliance,Hue,1,741464
+2259,2026-04-12,C017,Phan Van R,Rice Cooker,Home Appliance,HCM,3,1456913
+2260,2026-05-30,C011,Pham Van L,Rice Cooker,Home Appliance,Ha Noi,2,1604313
+2261,2026-06-18,C020,Tran Van U,Bookshelf,Furniture,HCM,3,3046505
+2262,2026-06-08,C021,Hoang Van V,Smart Watch,Wearable,Can Tho,1,6556007
+2263,2026-03-23,C008,Hoang Thi H,Smart Watch,Wearable,Hue,1,6808129
+2264,2026-02-24,C016,Dang Thi Q,Vacuum Cleaner,Home Appliance,Hue,1,4844537
+2265,2026-05-11,C010,Bui Thi K,Microwave,Kitchen,Can Tho,3,5750556
+2266,2026-04-13,C022,Pham Thi W,Study Desk,Furniture,Can Tho,3,6135356
+2267,2026-02-05,C024,Le Thi Y,Study Desk,Furniture,Da Nang,2,5304750
+2268,2026-03-08,C016,Dang Thi Q,Coffee Maker,Kitchen,Ha Noi,2,3579918
+2269,2026-03-04,C009,Do Van I,Water Purifier,Home Appliance,Ha Noi,1,4753411
+2270,2026-06-30,C010,Bui Thi K,Microwave,Kitchen,Ha Noi,3,3924752
+2271,2026-05-23,C010,Bui Thi K,Rice Cooker,Home Appliance,Ha Noi,3,1783882
+2272,2026-02-14,C017,Phan Van R,Coffee Maker,Kitchen,HCM,3,2548919
+2273,2026-02-09,C009,Do Van I,Vacuum Cleaner,Home Appliance,HCM,3,5583180
+2274,2026-06-19,C007,Tran Van G,Office Chair,Furniture,Da Nang,2,2841035
+2275,2026-03-16,C017,Phan Van R,Smart Watch,Wearable,HCM,2,3735058
+2276,2026-03-20,C010,Bui Thi K,Rice Cooker,Home Appliance,Hue,1,1342617
+2277,2026-05-19,C024,Le Thi Y,Office Chair,Furniture,Ha Noi,3,1145326
+2278,2026-06-09,C020,Tran Van U,Air Fryer,Home Appliance,Quang Nam,4,2010826
+2279,2026-05-23,C006,Nguyen Thi F,Blender,Kitchen,HCM,1,1052915
+2280,2026-04-02,C015,Vo Van P,Vacuum Cleaner,Home Appliance,Da Nang,1,8883757
+2281,2026-05-05,C010,Bui Thi K,Water Purifier,Home Appliance,Hue,3,10048071
+2282,2026-06-28,C003,Le Van C,Vacuum Cleaner,Home Appliance,Hue,1,3032150
+2283,2026-06-22,C005,Vo Van E,Rice Cooker,Home Appliance,Ha Noi,3,968446
+2284,2026-06-21,C018,Nguyen Thi S,Study Desk,Furniture,Da Nang,1,2116692
+2285,2026-04-04,C015,Vo Van P,Office Chair,Furniture,Quang Nam,3,5557933
+2286,2026-05-03,C006,Nguyen Thi F,Bluetooth Speaker,Audio,Hue,1,2551609
+2287,2026-02-07,C023,Nguyen Van X,Bookshelf,Furniture,HCM,3,1656384
+2288,2026-05-10,C020,Tran Van U,Smart Watch,Wearable,HCM,1,10075316
+2289,2026-06-18,C006,Nguyen Thi F,Water Purifier,Home Appliance,Ha Noi,1,5426545
+2290,2026-06-08,C001,Nguyen Van A,Coffee Maker,Kitchen,Ha Noi,5,3485580
+2291,2026-06-18,C015,Vo Van P,Bluetooth Speaker,Audio,HCM,3,4081008
+2292,2026-03-01,C008,Hoang Thi H,Bookshelf,Furniture,Hue,2,3708894
+2293,2026-02-20,C007,Tran Van G,Microwave,Kitchen,Quang Nam,2,1542859
+2294,2026-04-18,C016,Dang Thi Q,Smart Watch,Wearable,Hue,3,2126179
+2295,2026-06-03,C015,Vo Van P,Vacuum Cleaner,Home Appliance,Ha Noi,2,8880262
+2296,2026-03-03,C019,Le Van T,Study Desk,Furniture,Can Tho,2,4688956
+2297,2026-02-27,C021,Hoang Van V,Vacuum Cleaner,Home Appliance,Ha Noi,1,2079640
+2298,2026-06-15,C021,Hoang Van V,Study Desk,Furniture,Quang Nam,1,3398367
+2299,2026-04-08,C014,Tran Thi O,Blender,Kitchen,Quang Nam,3,1991948
+2300,2026-03-20,C019,Le Van T,Rice Cooker,Home Appliance,Da Nang,3,1249320

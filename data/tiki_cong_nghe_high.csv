@@ -1,0 +1,6 @@
+OrderDate,CustomerID,CustomerName,Region,Product,Quantity,UnitPrice
+2026-01-15,C001,Nguyen Van A,Mien Bac,"iPhone 15 Pro Max 256GB",50,31990000
+2026-02-10,C002,Tran Thi B,Mien Nam,"iPad Air M2 11-inch WiFi",40,16990000
+2026-03-20,C003,Le Van C,Mien Trung,"Tai nghe AirPods Pro Gen 2",120,5890000
+2026-04-05,C004,Pham Minh D,Mien Nam,"Loa Bluetooth Marshall Emberton II",80,3990000
+2026-04-25,C005,Hoang Thi E,Mien Bac,"Chuột Logitech MX Master 3S",95,2450000

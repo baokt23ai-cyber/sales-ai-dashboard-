@@ -1,0 +1,6 @@
+OrderDate,CustomerID,CustomerName,Region,Product,Quantity,UnitPrice
+2026-01-05,C101,Tiki User 1,Mien Bac,"Cây Lau Nhà Lock&Lock ETM472",6904,451100
+2026-01-20,C102,Tiki User 2,Mien Nam,"Bộ Cây Lau Nhà Ettom Lock&Lock",17578,538200
+2026-02-14,C103,Tiki User 3,Mien Bac,"Máy Hút Bụi Cầm Tay Lock&Lock",1651,189000
+2026-03-08,C104,Tiki User 4,Mien Trung,"Nồi Chiên Không Dầu Gaabor 4L",2971,495000
+2026-04-15,C105,Tiki User 5,Mien Nam,"Chảo Chống Dính Sunhouse 24cm",844,135000

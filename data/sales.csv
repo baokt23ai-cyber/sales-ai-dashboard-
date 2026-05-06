@@ -1,0 +1,8 @@
+OrderID,OrderDate,CustomerID,CustomerName,Product,Category,Region,Quantity,UnitPrice
+1001,2026-01-01,C001,Nguyen Van A,Laptop,Electronics,Da Nang,2,15000000
+1002,2026-01-02,C002,Tran Thi B,Mouse,Accessories,Ha Noi,3,200000
+1003,2026-01-03,C001,Nguyen Van A,Keyboard,Accessories,Da Nang,1,500000
+1004,2026-01-04,C003,Le Van C,Monitor,Electronics,HCM,1,3500000
+1005,2026-01-05,C004,Pham Thi D,Laptop,Electronics,Ha Noi,1,16000000
+1006,2026-01-06,C002,Tran Thi B,Mouse,Accessories,HCM,2,200000
+1007,2026-01-07,C005,Vo Van E,Keyboard,Accessories,Da Nang,4,450000

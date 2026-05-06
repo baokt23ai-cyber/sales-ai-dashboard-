@@ -1,0 +1,11 @@
+OrderDate,CustomerID,CustomerName,Region,Product,Quantity,UnitPrice
+2026-04-26,C501,Nguyen An,Mien Bac,"Loa Thông Minh Maika",5,2500000
+2026-04-27,C502,Tran Binh,Mien Nam,"Công Tắc Thông Minh Wi-Fi",12,350000
+2026-04-28,C503,Le Chi,Mien Trung,"Robot Hút Bụi Dreame",8,8500000
+2026-04-29,C504,Pham Dung,Mien Nam,"Khóa Cửa Vân Tay Kaadas",15,4200000
+2026-04-30,C505,Hoang Anh,Mien Bac,"Camera An Ninh Ezviz",25,1200000
+2026-05-01,C506,Vu Nam,Mien Bac,"Đèn LED Thông Minh Philips Hue",40,950000
+2026-05-02,C507,Do Minh,Mien Nam,"Máy Lọc Không Khí Xiaomi",35,3800000
+2026-05-03,C508,Bui Yen,Mien Trung,"Cảm Biến Chuyển Động Aqara",60,450000
+2026-05-04,C509,Dang Khoi,Mien Nam,"Rèm Cửa Tự Động Tuya",45,2100000
+2026-05-05,C510,Ngo Tu,Mien Bac,"Bộ Điều Khiển Trung Tâm Hub",80,1500000
